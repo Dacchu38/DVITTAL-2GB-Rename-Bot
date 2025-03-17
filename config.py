@@ -34,21 +34,21 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # digital_botz client config
-    API_ID = os.environ.get("API_ID", "")
-    API_HASH = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
+    API_ID = os.environ.get("API_ID", "23009724")
+    API_HASH = os.environ.get("API_HASH", "66a87d259426e268bdd765fb4c635f2b")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7824911074:AAEk7FKLig0x48wL3Evzw7-pAxJ5Gx6_lh4") 
 
     # premium account string session required 😢 
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
-    DB_URL = os.environ.get("DB_URL","")
+    DB_URL = os.environ.get("DB_URL","mongodb+srv://hello:Preethu@cluster0.isgp5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
     RKN_PIC = os.environ.get("RKN_PIC", "https://telegra.ph/file/b746aadfe59959eb76f59.jpg")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '6705898491').split()]
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002123429361"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002334874259"))
 
     # free upload limit 
     FREE_UPLOAD_LIMIT = 6442450944 # calculation 6*1024*1024*1024=results
@@ -59,9 +59,9 @@ class Config(object):
     
     #force subs
     try:
-        FORCE_SUB = int(os.environ.get("FORCE_SUB", "")) 
+        FORCE_SUB = int(os.environ.get("FORCE_SUB", "kannadamovieskannadadubb")) 
     except:
-        FORCE_SUB = os.environ.get("FORCE_SUB", "Digital_Botz")
+        FORCE_SUB = os.environ.get("FORCE_SUB", "kannadamovieskannadadubb")
         
     # wes response configuration     
     PORT = int(os.environ.get("PORT", "8080"))
