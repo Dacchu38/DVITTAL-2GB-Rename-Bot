@@ -59,9 +59,9 @@ class Config(object):
     
     #force subs
     try:
-        FORCE_SUB = int(os.environ.get("FORCE_SUB", "kannadamovieskannadadubb")) 
+        FORCE_SUB = int(os.environ.get("FORCE_SUB", "DVITTALKANNADAMOVIE")) 
     except:
-        FORCE_SUB = os.environ.get("FORCE_SUB", "kannadamovieskannadadubb")
+        FORCE_SUB = os.environ.get("FORCE_SUB", "DVITTALKANNADAMOVIE")
         
     # wes response configuration     
     PORT = int(os.environ.get("PORT", "8080"))
