@@ -85,7 +85,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @DVITTALKANNADAMOVIE 💞</b>"""
 ├📕 Lɪʙʀᴀʀy : {}
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
-├📊 ᴠᴇʀsɪᴏɴ: <a href=https://t.me/kannadamovieskannadadubb>{}</a></b>     
+├📊 ᴠᴇʀsɪᴏɴ: <a href=https://t.me/DVITTALKANNADAMOVIE>{}</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -93,7 +93,7 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @DVITTALKANNADAMOVIE 💞</b>"""
 
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/preethudg>Owner</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/d_Vittal_911545>Owner</a>
 """
 
     UPGRADE_PREMIUM= """
@@ -175,7 +175,7 @@ V𝟹.𝟶.𝟶 [STABLE]
 --change-subtitle-title @kannadamovieskannadadubb
 --change-author @kannadamovieskannadadubb
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @preethudg
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @d_Vittal_911545
 """
     
     CUSTOM_FILE_NAME = """
@@ -190,8 +190,8 @@ you can pre-add a prefix and suffix along with your new filename
 ➢ /see_suffix - Tᴏ Sᴇᴇ Yᴏᴜʀ Sᴜғғɪx !!
 ➢ /del_suffix - Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Sᴜғғɪx !!
 
-Exᴀᴍᴩʟᴇ:- `/set_suffix @kannadamovieskannadadubb`
-Exᴀᴍᴩʟᴇ:- `/set_prefix @kannadamovieskannadadubb`
+Exᴀᴍᴩʟᴇ:- `/set_suffix @DVITTALKANNADAMOVIE`
+Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
 """
     
     #⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
@@ -201,9 +201,9 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @kannadamovieskannadadubb`
     
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=Its not a open source code>Owner</a>
 
-• ❣️ <a href=https://t.me/kannadamovieskannadadubb>preethudg</a>
-• ❣️ <a href=https://t.me/kannadamovieskannadadubb>preethudg</a>
-• ❣️ <a href=https://t.me/kannadamovieskannadadubb>preethudg</a> """
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>preethudg</a>
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>preethudg</a>
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>preethudg</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -217,7 +217,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @kannadamovieskannadadubb`
 --change-subtitle-title @kannadamovieskannadadubb
 --change-author @kannadamovieskannadadubb
 
-📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @preethudg
+📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @d_Vittal_911545
 """
     
     RKN_PROGRESS = """<b>\n
