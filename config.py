@@ -201,9 +201,9 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
     
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=Its not a open source code>Owner</a>
 
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>preethudg</a>
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>preethudg</a>
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>preethudg</a> """
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a>
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a>
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
