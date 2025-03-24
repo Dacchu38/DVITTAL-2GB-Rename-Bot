@@ -36,7 +36,7 @@ class Config(object):
     # digital_botz client config
     API_ID = os.environ.get("API_ID", "25443969")
     API_HASH = os.environ.get("API_HASH", "ee48a096a6a929805567d899e72a7d1c")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7837101926:AAGbqYl6QsfmNOuKWT4UDvRyd9TyZboN7h8") 
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
     # premium account string session required 😢 
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
@@ -46,9 +46,10 @@ class Config(object):
     DB_URL = os.environ.get("DB_URL","mongodb+srv://DB2:DB2@db2.3oa7m.mongodb.net/?retryWrites=true&w=majority&appName=DB2")
  
     # other configs
-    RKN_PIC = os.environ.get("RKN_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+    RKN_PIC = os.environ.get("RKN_PIC", "https://envs.sh/nWk.jpg
+    ")
     ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '2089142494 8096214375').split()]
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002542497980"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002329137995"))
 
     # free upload limit 
     FREE_UPLOAD_LIMIT = 6442450944 # calculation 6*1024*1024*1024=results
@@ -169,11 +170,11 @@ V𝟹.𝟶.𝟶 [STABLE]
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-`--change-title @kannadamovieskannadadubb
---change-video-title @kannadamovieskannadadubb
---change-audio-title @kannadamovieskannadadubb
---change-subtitle-title @kannadamovieskannadadubb
---change-author @kannadamovieskannadadubb
+`--change-title @DVITTALKANNADAMOVIE 🍿
+--change-video-title@DVITTALKANNADAMOVIE 🍿
+--change-audio-title @DVITTALKANNADAMOVIE 🍿
+--change-subtitle-title@DVITTALKANNADAMOVIE 🍿
+--change-author@DVITTALKANNADAMOVIE 🍿
 
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @d_Vittal_911545
 """
@@ -201,9 +202,9 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
     
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=Its not a open source code>Owner</a>
 
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a>
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a>
-• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>D vittal</a> """
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>@DVITTALKANNADAMOVIE 🍿</a>
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>@DVITTALKANNADAMOVIE 🍿</a>
+• ❣️ <a href=https://t.me/DVITTALKANNADAMOVIE>@DVITTALKANNADAMOVIE 🍿</a> """
     # ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
     SEND_METADATA = """
@@ -221,7 +222,7 @@ Exᴀᴍᴩʟᴇ:- `/set_prefix @DVITTALKANNADAMOVIE`
 """
     
     RKN_PROGRESS = """<b>\n
-╭━━━━❰RKN PROCESSING...❱━➣
+╭━━━━❰DVITTAL PROCESSING...❱━➣
 ┣⪼ 🗃️ ꜱɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ ᴅᴏɴᴇ : {0}%
 ┣⪼ 🚀 ꜱᴩᴇᴇᴅ: {3}/s
